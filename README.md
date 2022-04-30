@@ -2,6 +2,10 @@
 ![alt flutter-e-commerce-app](https://media-exp1.licdn.com/dms/image/C4E2DAQHrVchRSTMTdw/profile-treasury-image-shrink_8192_8192/0/1619411331210?e=2147483647&v=beta&t=BR6wBFqSkHisDb0dicGBF3aywzeHRhQu8cyBPGfUxis) 
 
 This    Ecommerce mobile application is Developed for  https://github.com/bibinprathap/nextjs-e-commerce  using Flutter.  
+<p align="center">
+<img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="50%">
+</p>
+
 https://play.google.com/store/apps/details?id=com.openflutter.openflutterecommerce
 
 <h3 align="left">Connect with me:</h3>
