@@ -1,4 +1,7 @@
 ## Flutter Ecommerce Mobile App
+
+https://bibinprathap.medium.com/building-the-future-of-shopping-a-dive-into-the-flutter-e-commerce-app-repository-ea30398583ae
+
 ![alt flutter-e-commerce-app](https://media-exp1.licdn.com/dms/image/C4E2DAQHrVchRSTMTdw/profile-treasury-image-shrink_8192_8192/0/1619411331210?e=2147483647&v=beta&t=BR6wBFqSkHisDb0dicGBF3aywzeHRhQu8cyBPGfUxis) 
 
 This    Ecommerce mobile application is Developed for  https://github.com/bibinprathap/nextjs-e-commerce  using Flutter.  
